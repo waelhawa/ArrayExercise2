@@ -1,0 +1,13 @@
+F:\GrandCircus\C#\ArrayExercise2\ArrayExercise2\bin\Debug\netcoreapp3.1\ArrayExercise2.exe
+F:\GrandCircus\C#\ArrayExercise2\ArrayExercise2\bin\Debug\netcoreapp3.1\ArrayExercise2.deps.json
+F:\GrandCircus\C#\ArrayExercise2\ArrayExercise2\bin\Debug\netcoreapp3.1\ArrayExercise2.runtimeconfig.json
+F:\GrandCircus\C#\ArrayExercise2\ArrayExercise2\bin\Debug\netcoreapp3.1\ArrayExercise2.runtimeconfig.dev.json
+F:\GrandCircus\C#\ArrayExercise2\ArrayExercise2\bin\Debug\netcoreapp3.1\ArrayExercise2.dll
+F:\GrandCircus\C#\ArrayExercise2\ArrayExercise2\bin\Debug\netcoreapp3.1\ArrayExercise2.pdb
+F:\GrandCircus\C#\ArrayExercise2\ArrayExercise2\obj\Debug\netcoreapp3.1\ArrayExercise2.csprojAssemblyReference.cache
+F:\GrandCircus\C#\ArrayExercise2\ArrayExercise2\obj\Debug\netcoreapp3.1\ArrayExercise2.AssemblyInfoInputs.cache
+F:\GrandCircus\C#\ArrayExercise2\ArrayExercise2\obj\Debug\netcoreapp3.1\ArrayExercise2.AssemblyInfo.cs
+F:\GrandCircus\C#\ArrayExercise2\ArrayExercise2\obj\Debug\netcoreapp3.1\ArrayExercise2.csproj.CoreCompileInputs.cache
+F:\GrandCircus\C#\ArrayExercise2\ArrayExercise2\obj\Debug\netcoreapp3.1\ArrayExercise2.dll
+F:\GrandCircus\C#\ArrayExercise2\ArrayExercise2\obj\Debug\netcoreapp3.1\ArrayExercise2.pdb
+F:\GrandCircus\C#\ArrayExercise2\ArrayExercise2\obj\Debug\netcoreapp3.1\ArrayExercise2.genruntimeconfig.cache
